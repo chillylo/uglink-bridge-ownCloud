@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://ljhzstlybt.cn25.ug.link"
 PORT = "9091"
-USERNAME = "ljhzstlybt"
+USERNAME = "dun"
 
 [[kv_namespaces]]
 binding = "owncloud"
